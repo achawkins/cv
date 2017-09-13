@@ -2,3 +2,4 @@ dep
 *.aux
 *.log
 *.out
+*.gz
