@@ -13,7 +13,7 @@ Most of my academic and professional information compiled together.
 
 Résumé
 ------
-A shortened version of my CV with only minimally necessary information.
+A shortened version of my CV with only the most essential information.
 
 ---
 
