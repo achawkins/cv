@@ -68,7 +68,7 @@ if __name__ == "__main__":
         all_versions.extend(dirs)
         break
     all_versions.remove(".git")
-    all_versions.remove("dep")
+    #all_versions.remove("dep")
 
     # Check for the option given.
     if opt.lower() in ["build", 'c']:
